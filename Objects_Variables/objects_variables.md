@@ -13,6 +13,9 @@
 ### Readonly variable and forcefully remove
 <img width="1521" height="549" alt="image" src="https://github.com/user-attachments/assets/46c32a28-5bb3-43ef-83ae-84a9934c16e5" />
 
+<img width="1358" height="261" alt="image" src="https://github.com/user-attachments/assets/1d7d64d3-a7c9-4de7-9975-c44c4dd9840c" />
+
+
 
 
 
