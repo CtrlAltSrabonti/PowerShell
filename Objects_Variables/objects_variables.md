@@ -5,4 +5,7 @@
 ### Create Variable and print
 <img width="838" height="334" alt="image" src="https://github.com/user-attachments/assets/33a6bc05-c2d6-40f6-9a77-c58e4a983abf" />
 
+<img width="1003" height="557" alt="image" src="https://github.com/user-attachments/assets/48aeb0fa-dd32-407e-9a0d-031301a73ef3" />
+
+
 
