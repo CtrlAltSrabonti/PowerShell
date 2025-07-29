@@ -10,6 +10,10 @@
 #### Alternative to create variable
 <img width="1215" height="80" alt="image" src="https://github.com/user-attachments/assets/7f4a34ff-78fb-4060-923c-928419bc6c8e" />
 
+### Readonly variable and forcefully remove
+<img width="1521" height="549" alt="image" src="https://github.com/user-attachments/assets/46c32a28-5bb3-43ef-83ae-84a9934c16e5" />
+
+
 
 
 
