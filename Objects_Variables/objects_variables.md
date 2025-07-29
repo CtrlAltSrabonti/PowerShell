@@ -8,7 +8,8 @@
 <img width="1003" height="557" alt="image" src="https://github.com/user-attachments/assets/48aeb0fa-dd32-407e-9a0d-031301a73ef3" />
   
 #### Alternative to create variable
-<img width="1361" height="709" alt="image" src="https://github.com/user-attachments/assets/14ec0505-582a-484e-90a2-a8dcbce3d877" />
+<img width="1215" height="80" alt="image" src="https://github.com/user-attachments/assets/7f4a34ff-78fb-4060-923c-928419bc6c8e" />
+
 
 
 
