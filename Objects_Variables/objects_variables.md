@@ -18,6 +18,7 @@
 ### Constant variables can not be forcefully modified
 It is not possible to set constant. Remove of constant is also not possible.
 <img width="809" height="323" alt="image" src="https://github.com/user-attachments/assets/b588a148-b0a2-4815-8239-501bdb83c712" />
+<img width="1273" height="186" alt="image" src="https://github.com/user-attachments/assets/cd51bf95-c93c-424c-b555-62311ab036d8" />
 
 
 
